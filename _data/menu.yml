@@ -1,0 +1,11 @@
+- title: "Home"
+  href: "/"
+  
+- title: "Research"
+  href: "/research/"
+
+- title: "Non-Research Projects"
+  href: "/projects/"
+
+- title: "CV"
+  href: "/rabindra_lamsal_cv.pdf"

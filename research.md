@@ -22,7 +22,7 @@ Rabindra Lamsal and T.V. Vijay Kumar. 2020. Twitter based Disaster Response usin
 Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence and Early Warning Systems. Will appear in the book titled <em>AI and Robotics in Disaster Studies</em>
 (Springer Nature — Palgrave Macmillan).<br><br>
 
-Rabindra Lamsal and T.V. Vijay Kumar. 2019. Artificial Intelligence based Disaster Response Systems. <em>Fourth World Congress on Disaster Management</em>. January 29-February 1, 2019, Indian Institute of Technology Bombay, India.<br><br>
+Rabindra Lamsal and T.V. Vijay Kumar. 2019. Artificial Intelligence based Disaster Response Systems. Fourth World Congress on Disaster Management. January 29-February 1, 2019, Indian Institute of Technology Bombay, India.<br><br>
 
 Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence Based Early Warning System for Coastal Disasters. Will appear in the book titled <em>Development in
 Coastal Zones and Disaster Management</em> (Springer Nature — Palgrave Macmillan).

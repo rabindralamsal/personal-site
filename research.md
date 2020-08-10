@@ -6,40 +6,31 @@ title: Research
 <h2>Publications</h2>
 Journal articles
 <ul>
-	<li>
-		<b>Improving Twitter based Disaster Response using Deep Learning</b> (communicated)<br>
-		Rabindra Lamsal and T.V. Vijay Kumar<br>
-		<a href="https://rlamsal.com.np/papers/ITB_DR_DL.pdf"><div class="color-button">abstract (pdf)</div></a>
-	</li><br>
 
+Rabindra Lamsal. 2020. Tracking COVID-19 Discourse: Design of a Large-Scale Coronavirus Tweets Dataset. [under review]
 
-<li>
-<b>Twitter based Disaster Response using Machine Learning</b> (communicated)<br>Rabindra Lamsal and T.V. Vijay Kumar<br>
-<a href="https://rlamsal.com.np/papers/TB_DR_ML.pdf"><div class="color-button">abstract (pdf)</div></a>
-</li><br>
-<li> <b> Classifying Emergency Tweets for Disaster Response</b> (communicated)<br>Rabindra Lamsal and T.V. Vijay Kumar<br>
-<a href="https://rlamsal.com.np/papers/CET_DR.pdf"><div class="color-button">abstract (pdf)</div></a>
-</li></ul>
+Rabindra Lamsal and T.V. Vijay Kumar. 2020. Twitter based Disaster Response using Recurrent Nets. International Journal of Sociotechnology and Knowledge
+Development (IJSKD), 13(4). [accepted]
 
-Papers selected as Book Chapters
+Rabindra Lamsal and T.V. Vijay Kumar. 2020. Twitter based Disaster Response using traditional Machine Learning Algorithms. [under review]
+
+</ul>
+
+Book Chapters
 
 <ul>
-	<li>
-		<b>Artificial Intelligence and Early Warning Systems</b><br>
-		Rabindra Lamsal and T.V. Vijay Kumar<br>
-		Global Symposium on Artificial Intelligence in Governance and Disaster Management, New Delhi, 2019<br>
-		<a href="https://rlamsal.com.np/papers/AI_EWS.pdf"><div class="color-button">abstract (pdf)</div></a>
-	</li><br>
-	
-<li> <b>Artificial Intelligence based Disaster Response Systems</b><br>Rabindra Lamsal and T.V. Vijay Kumar<br> Fourth World Congress on Disaster Management. Indian Institute of Technology (IIT) Bombay, 2019<br> 
-<a href="https://rlamsal.com.np/papers/AI_DRS.pdf"><div class="color-button">abstract (pdf)</div></a>
-</li><br>
 
-<li> <b>Artificial Intelligence Based Early Warning System for Coastal Disasters</b><br>Rabindra Lamsal and T.V. Vijay Kumar<br> International workshop on ‘Reinforcing Coastal Zone Management: Saving Lives, Habitats and Livelihood of People’, New Delhi, 2019<br>
-<a href="https://rlamsal.com.np/papers/AI_EWS_CD.pdf"><div class="color-button">abstract (pdf)</div></a>
-</li></ul>
+Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence and Early Warning Systems. Will appear on the book titled AI and Robotics in Disaster Studies
+(Springer Nature — Palgrave Macmillan).<br>
 
-Preprints
+Rabindra Lamsal and T.V. Vijay Kumar. 2019. Artificial Intelligence based Disaster Response Systems. Fourth World Congress on Disaster Management. January 29-February 1, 2019, Indian Institute of Technology Bombay, India.<br>
+
+Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence Based EarlyWarning System for Coastal Disasters. Will appear on the book titled Development in
+Coastal Zones and Disaster Management (Springer Nature — Palgrave Macmillan).
+
+</ul>
+
+In the Preprint
 <ul>
 	<li>
 		<b>Determining Optimal Number of k-Clusters based on Predefined Level-of-Similarity</b><br>
@@ -58,7 +49,7 @@ Rabindra Lamsal and Ayesha Choudhary<br>
 	
 <li>
 		<b>Live Twitter Sentiment [<a href="https://sentiment.live">web application</a>]</b><br>
-		Deployed an LSTM model for live twitter sentiment. The trained LSTM deep network is a modified version of the text classifier documented in my master's thesis.<br>
+		A near-real-time sentiment analysis project. Two datasets, which were the products of this project, have been selected as the first-place winner in the Spring 2020 IEEE DataPort Dataset Competition. <br>
 	</li><br>	
 
 <li> <b>Twitter Based Disaster Response System</b><br>

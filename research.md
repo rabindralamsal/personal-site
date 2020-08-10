@@ -20,13 +20,13 @@ Book Chapters
 
 <ul>
 
-Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence and Early Warning Systems. Will appear in the book titled AI and Robotics in Disaster Studies
+Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence and Early Warning Systems. Will appear in the book titled "AI and Robotics in Disaster Studies"
 (Springer Nature — Palgrave Macmillan).<br><br>
 
 Rabindra Lamsal and T.V. Vijay Kumar. 2019. Artificial Intelligence based Disaster Response Systems. Fourth World Congress on Disaster Management. January 29-February 1, 2019, Indian Institute of Technology Bombay, India.<br><br>
 
-Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence Based EarlyWarning System for Coastal Disasters. Will appear in the book titled Development in
-Coastal Zones and Disaster Management (Springer Nature — Palgrave Macmillan).
+Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence Based EarlyWarning System for Coastal Disasters. Will appear in the book titled "Development in
+Coastal Zones and Disaster Management" (Springer Nature — Palgrave Macmillan).
 
 </ul>
 

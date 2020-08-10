@@ -20,17 +20,28 @@ Book Chapters
 
 <ul>
 
-Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence and Early Warning Systems. Will appear on the book titled AI and Robotics in Disaster Studies
+Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence and Early Warning Systems. Will appear in the book titled AI and Robotics in Disaster Studies
 (Springer Nature — Palgrave Macmillan).<br><br>
 
 Rabindra Lamsal and T.V. Vijay Kumar. 2019. Artificial Intelligence based Disaster Response Systems. Fourth World Congress on Disaster Management. January 29-February 1, 2019, Indian Institute of Technology Bombay, India.<br><br>
 
-Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence Based EarlyWarning System for Coastal Disasters. Will appear on the book titled Development in
+Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence Based EarlyWarning System for Coastal Disasters. Will appear in the book titled Development in
 Coastal Zones and Disaster Management (Springer Nature — Palgrave Macmillan).
 
 </ul>
 
 In the Preprint
 <ul>
-	<li>
-		<b>Determining Optimal Number of k-Clusters based on 
+
+Rabindra Lamsal and Shubham Katiyar. 2018. Determining Optimal Number of k-Clusters based on Predefined Level-of-Similarity. [arXiv]<br><br>
+
+Rabindra Lamsal and Ayesha Choudhary. 2018. Predicting Outcome of Indian Premier League (IPL) Matches Using Machine Learning. [arXiv]
+
+</ul>
+
+Poster Presentation
+<ul>
+
+Rabindra Lamsal and T.V. Vijay Kumar. 2019. Social Media Analytics for Disaster Response using Artificial Intelligence. National Science Day, New Delhi, India.
+
+</ul>

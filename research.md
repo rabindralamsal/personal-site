@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 ---
 <h2>Publications</h2>
-Journal articles
+<b>Journal articles</b>
 <ul>
 
 Rabindra Lamsal. 2020. Tracking COVID-19 Discourse: Design of a Large-Scale Coronavirus Tweets Dataset. [under review] <br><br>
@@ -16,21 +16,22 @@ Rabindra Lamsal and T.V. Vijay Kumar. 2020. Twitter based Disaster Response usin
 
 </ul>
 
-Book Chapters
+<b>Book Chapters</b>
 
 <ul>
 
-Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence and Early Warning Systems. Will appear in the book titled "AI and Robotics in Disaster Studies"
+Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence and Early Warning Systems. Will appear in the book titled <em>AI and Robotics in Disaster Studies</em>
 (Springer Nature — Palgrave Macmillan).<br><br>
 
-Rabindra Lamsal and T.V. Vijay Kumar. 2019. Artificial Intelligence based Disaster Response Systems. Fourth World Congress on Disaster Management. January 29-February 1, 2019, Indian Institute of Technology Bombay, India.<br><br>
+Rabindra Lamsal and T.V. Vijay Kumar. 2019. Artificial Intelligence based Disaster Response Systems. <em>Fourth World Congress on Disaster Management</em>. January 29-February 1, 2019, Indian Institute of Technology Bombay, India.<br><br>
 
-Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence Based EarlyWarning System for Coastal Disasters. Will appear in the book titled "Development in
-Coastal Zones and Disaster Management" (Springer Nature — Palgrave Macmillan).
+Rabindra Lamsal and T.V. Vijay Kumar. 2020. Artificial Intelligence Based Early Warning System for Coastal Disasters. Will appear in the book titled <em>Development in
+Coastal Zones and Disaster Management</em> (Springer Nature — Palgrave Macmillan).
 
 </ul>
 
-In the Preprint
+<b>In the Preprint</b>
+
 <ul>
 
 Rabindra Lamsal and Shubham Katiyar. 2018. Determining Optimal Number of k-Clusters based on Predefined Level-of-Similarity. [arXiv]<br><br>
@@ -39,7 +40,7 @@ Rabindra Lamsal and Ayesha Choudhary. 2018. Predicting Outcome of Indian Premier
 
 </ul>
 
-Poster Presentation
+<b>Poster Presentation</b>
 <ul>
 
 Rabindra Lamsal and T.V. Vijay Kumar. 2019. Social Media Analytics for Disaster Response using Artificial Intelligence. National Science Day, New Delhi, India.

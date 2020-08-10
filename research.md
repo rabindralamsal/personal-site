@@ -3,7 +3,6 @@ layout: page
 permalink: /research/
 title: Research
 ---
-<h2>Publications</h2>
 <b>Journal articles</b>
 <ul>
 

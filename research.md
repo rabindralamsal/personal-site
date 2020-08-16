@@ -48,7 +48,7 @@ Rabindra Lamsal and T.V. Vijay Kumar. 2019. Social Media Analytics for Disaster 
 
 <b>Public Datasets</b>
 
-<ul>Rabindra Lamsal. (2020). Coronavirus (COVID-19) Tweets Dataset. IEEE Dataport. http://dx.doi.org/10.21227/781w-ef42</ul><br><br>
-<ul>Rabindra Lamsal. (2020). Coronavirus (COVID-19) Geo-tagged Tweets Dataset. IEEE Dataport. http://dx.doi.org/10.21227/fpsb-jz61</ul><br><br>
-<ul>Rabindra Lamsal. (2020). A Large Scale Nepali Text Corpus. IEEE Dataport. http://dx.doi.org/10.21227/jxrd-d245</ul><br><br>
-<ul>Rabindra Lamsal. (2019). 300-Dimensional Word Embeddings for Nepali Language. IEEE Dataport. http://dx.doi.org/10.21227/dz6s-my90</ul>
+<ul>Rabindra Lamsal. (2020). Coronavirus (COVID-19) Tweets Dataset. IEEE Dataport. http://dx.doi.org/10.21227/781w-ef42<br><br>
+Rabindra Lamsal. (2020). Coronavirus (COVID-19) Geo-tagged Tweets Dataset. IEEE Dataport. http://dx.doi.org/10.21227/fpsb-jz61<br><br>
+Rabindra Lamsal. (2020). A Large Scale Nepali Text Corpus. IEEE Dataport. http://dx.doi.org/10.21227/jxrd-d245<br><br>
+Rabindra Lamsal. (2019). 300-Dimensional Word Embeddings for Nepali Language. IEEE Dataport. http://dx.doi.org/10.21227/dz6s-my90</ul>

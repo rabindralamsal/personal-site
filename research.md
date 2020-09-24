@@ -8,6 +8,8 @@ title: Research
 
 Rabindra Lamsal. (2020). Tracking COVID-19 Discourse: Design of a Large-Scale Coronavirus Tweets Dataset. [under review] <br><br>
 
+Rabindra Lamsal and Shubham Katiyar. (2020). cs-means: Determining Optimal Number of Clusters Based on a Level-of-Similarity. SN Applied Sciences. [accepted]<br><br>
+
 Rabindra Lamsal and T.V. Vijay Kumar. (2020). Twitter based Disaster Response using Recurrent Nets. International Journal of Sociotechnology and Knowledge
 Development (IJSKD), 13(4). [accepted]<br><br>
 
@@ -32,8 +34,6 @@ Rabindra Lamsal and T.V. Vijay Kumar. (2019). Artificial Intelligence based Disa
 <b>In the Preprint</b>
 
 <ul>
-
-Rabindra Lamsal and Shubham Katiyar. (2018). Determining Optimal Number of k-Clusters based on Predefined Level-of-Similarity. [arXiv]<br><br>
 
 Rabindra Lamsal and Ayesha Choudhary. (2018). Predicting Outcome of Indian Premier League (IPL) Matches Using Machine Learning. [arXiv]
 

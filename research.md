@@ -6,13 +6,13 @@ title: Research
 <b>Journal articles</b>
 <ul>
 
-Rabindra Lamsal. (2020). Tracking COVID-19 Discourse: Design of a Large-Scale Coronavirus Tweets Dataset. [under review] <br><br>
+Rabindra Lamsal and Shubham Katiyar. (2020). cs-means: Determining Optimal Number of Clusters Based on a Level-of-Similarity. SN Appl. Sci. 2, 1774.<br><br>
 
-Rabindra Lamsal and Shubham Katiyar. (2020). cs-means: Determining Optimal Number of Clusters Based on a Level-of-Similarity. SN Appl. Sci. 2, 1774 (2020).<br><br>
+Rabindra Lamsal and T.V. Vijay Kumar. (2020). Twitter based Disaster Response using Recurrent Nets. International Journal of Disaster Response and Emergency Management, 3(1). [yet to be online]<br>
 
-Rabindra Lamsal and T.V. Vijay Kumar. (2020). Twitter based Disaster Response using Recurrent Nets. International Journal of Disaster Response and Emergency Management, 3(1). [yet to be online]<br><br>
-
-Rabindra Lamsal and T.V. Vijay Kumar. (2020). Twitter based Disaster Response using traditional Machine Learning Algorithms. [under review]
+<b>Under review</b><br>
+Rabindra Lamsal. (2020). Tracking COVID-19 Discourse: Design of a Large-Scale Coronavirus Tweets Dataset.<br><br>
+Rabindra Lamsal and T.V. Vijay Kumar. (2020). Twitter based Disaster Response using traditional Machine Learning Algorithms.
 
 </ul>
 

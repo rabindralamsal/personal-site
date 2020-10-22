@@ -9,7 +9,7 @@ Rabindra Lamsal. (2020). Design and Analysis of a Large-Scale COVID-19 Tweets Da
 
 Rabindra Lamsal and Shubham Katiyar. (2020). cs-means: Determining Optimal Number of Clusters Based on a Level-of-Similarity. <em>SN Appl. Sci. 2</em>, 1774.<br><br>
 
-Rabindra Lamsal and T.V. Vijay Kumar. (2020). Twitter based Disaster Response using Recurrent Nets. <em>International Journal of Disaster Response and Emergency Management</em>, 3(1). [yet to be online]<br>
+Rabindra Lamsal and T.V. Vijay Kumar. (2020). Twitter based Disaster Response using Recurrent Nets. <em>International Journal of Disaster Response and Emergency Management</em>, 3(1). [yet to be online]<br><br>
 
 <b>Under review</b><br>
 Rabindra Lamsal and T.V. Vijay Kumar. (2020). Twitter based Disaster Response using traditional Machine Learning Algorithms.

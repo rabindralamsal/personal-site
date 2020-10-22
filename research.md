@@ -5,26 +5,24 @@ title: Research
 ---
 <b>Journal articles</b>
 <ul>
+Rabindra Lamsal. (2020). Design and Analysis of a Large-Scale COVID-19 Tweets Dataset. <em>Applied Intelligence</em>. [yet to be online]<br><br>
 
-Rabindra Lamsal and Shubham Katiyar. (2020). cs-means: Determining Optimal Number of Clusters Based on a Level-of-Similarity. SN Appl. Sci. 2, 1774.<br><br>
+Rabindra Lamsal and Shubham Katiyar. (2020). cs-means: Determining Optimal Number of Clusters Based on a Level-of-Similarity. <em>SN Appl. Sci. 2</em>, 1774.<br><br>
 
-Rabindra Lamsal and T.V. Vijay Kumar. (2020). Twitter based Disaster Response using Recurrent Nets. International Journal of Disaster Response and Emergency Management, 3(1). [yet to be online]<br>
+Rabindra Lamsal and T.V. Vijay Kumar. (2020). Twitter based Disaster Response using Recurrent Nets. <em>International Journal of Disaster Response and Emergency Management</em>, 3(1). [yet to be online]<br>
 
 <b>Under review</b><br>
-Rabindra Lamsal. (2020). Tracking COVID-19 Discourse: Design of a Large-Scale Coronavirus Tweets Dataset.<br><br>
 Rabindra Lamsal and T.V. Vijay Kumar. (2020). Twitter based Disaster Response using traditional Machine Learning Algorithms.
 
 </ul>
 
-<b>Book Chapters</b>
+<b>Book Chapters & Conferences</b>
 
 <ul>
 
-Rabindra Lamsal and T.V. Vijay Kumar. (2020). Artificial Intelligence and Early Warning Systems. Will appear in the book <em>AI and Robotics in Disaster Studies</em>
-(Palgrave Macmillan).<br><br>
+Rabindra Lamsal and T.V. Vijay Kumar. (2020). Artificial Intelligence and Early Warning Systems. In <em>AI and Robotics in Disaster Studies</em> (pp. 13-32). Palgrave Macmillan, Singapore.<br><br>
 
-Rabindra Lamsal and T.V. Vijay Kumar. (2020). Artificial Intelligence Based Early Warning System for Coastal Disasters. Will appear in the book <em>Development in
-Coastal Zones and Disaster Management</em> (Palgrave Macmillan).<br><br>
+Rabindra Lamsal and T.V. Vijay Kumar. (2020). Artificial Intelligence Based Early Warning System for Coastal Disasters. In <em>Development in Coastal Zones and Disaster Management</em> (pp. 305-320). Palgrave Macmillan, Singapore.<br><br>
 
 Rabindra Lamsal and T.V. Vijay Kumar. (2019). Artificial Intelligence based Disaster Response Systems. Fourth World Congress on Disaster Management. January 29-February 1, 2019, Indian Institute of Technology Bombay, India.
 

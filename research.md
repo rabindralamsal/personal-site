@@ -5,7 +5,7 @@ title: Research
 ---
 <b>Journal articles</b>
 <ul>
-Rabindra Lamsal. (2020). Design and analysis of a large-scale COVID-19 tweets dataset. Applied Intelligence. https://doi.org/10.1007/s10489-020-02029-z<br><br>
+Rabindra Lamsal. (2020). Design and analysis of a large-scale COVID-19 tweets dataset. <em>Applied Intelligence</em>. https://doi.org/10.1007/s10489-020-02029-z<br><br>
 
 Rabindra Lamsal and Shubham Katiyar. (2020). cs-means: Determining Optimal Number of Clusters Based on a Level-of-Similarity. <em>SN Applied Sciences 2</em>, 1774. https://doi.org/10.1007/s42452-020-03582-5<br><br>
 

@@ -39,7 +39,7 @@ Lamsal, R., & Choudhary, A. (2018). Predicting Outcome of Indian Premier League 
 <b>Poster Presentation</b>
 <ul>
 
-Rabindra Lamsal and T.V. Vijay Kumar. (2019). Social Media Analytics for Disaster Response using Artificial Intelligence. National Science Day, New Delhi, India.
+Lamsal, R., Kumar, T. V. (2019). Social Media Analytics for Disaster Response using Artificial Intelligence. National Science Day, New Delhi, India.
 
 </ul>
 

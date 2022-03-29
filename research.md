@@ -5,6 +5,9 @@ title: Research
 ---
 <b>Journal articles</b>
 <ul>
+Lamsal, R., Harwood, A., & Read, M. R. (2022). Socially Enhanced Situation Awareness from Microblogs using Artificial Intelligence: A Survey. ACM Computing Surveys.
+<br><br>  
+  
 Lamsal, R. (2021). Design and analysis of a large-scale COVID-19 tweets dataset. Applied Intelligence, 51(5), 2790-2804.
 <br><br>
 
@@ -13,8 +16,7 @@ Lamsal, R., & Katiyar, S. (2020). cs-means: Determining optimal number of cluste
 
 Lamsal, R., & Kumar, T. V. (2021). Twitter-Based Disaster Response Using Recurrent Nets. International Journal of Sociotechnology and Knowledge Development (IJSKD), 13(3), 133-150.<br><br>
 
-<b>Under review</b><br>
-Rabindra Lamsal and T.V. Vijay Kumar. (2020). Twitter based Disaster Response using traditional Machine Learning Algorithms.
+Lamsal, R., & Kumar, T. V. (2022). Twitter-based Disaster Response using Machine Learning. International Journal of Social Ecology and Sustainable Development (IJSESD). [accepted, yet to be online]
 
 </ul>
 

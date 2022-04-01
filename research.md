@@ -53,3 +53,4 @@ Lamsal, R. (2020). Coronavirus (COVID-19) Geo-tagged Tweets Dataset. IEEE Datapo
 Lamsal, R. (2020). A Large Scale Nepali Text Corpus. IEEE Dataport. <a href="http://dx.doi.org/10.21227/jxrd-d245">http://dx.doi.org/10.21227/jxrd-d245</a><br><br>
 Lamsal, R. (2019). 300-Dimensional Word Embeddings for Nepali Language. IEEE Dataport. <a href="http://dx.doi.org/10.21227/dz6s-my90">http://dx.doi.org/10.21227/dz6s-my90</a>
 </ul>
+

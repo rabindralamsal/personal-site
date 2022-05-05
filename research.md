@@ -47,7 +47,7 @@ title: Research
 
 <ul>
 <b>Lamsal, R.</b> (2020). Coronavirus (COVID-19) Tweets Dataset. <i>IEEE Dataport</i>. <a href="http://dx.doi.org/10.21227/781w-ef42">http://dx.doi.org/10.21227/781w-ef42</a><br><br>
-<b>Lamsal, R.</b> (2020). Coronavirus (COVID-19) Geo-tagged Tweets Dataset</i>. <i>IEEE Dataport. <a href="http://dx.doi.org/10.21227/fpsb-jz61">http://dx.doi.org/10.21227/fpsb-jz61</a><br><br>
+<b>Lamsal, R.</b> (2020). Coronavirus (COVID-19) Geo-tagged Tweets Dataset. <i>IEEE Dataport</i>. <a href="http://dx.doi.org/10.21227/fpsb-jz61">http://dx.doi.org/10.21227/fpsb-jz61</a><br><br>
 <b>Lamsal, R.</b> (2020). A Large Scale Nepali Text Corpus. <i>IEEE Dataport</i>. <a href="http://dx.doi.org/10.21227/jxrd-d245">http://dx.doi.org/10.21227/jxrd-d245</a><br><br>
 <b>Lamsal, R.</b> (2019). 300-Dimensional Word Embeddings for Nepali Language. <i>IEEE Dataport</i>. <a href="http://dx.doi.org/10.21227/dz6s-my90">http://dx.doi.org/10.21227/dz6s-my90</a>
 </ul>

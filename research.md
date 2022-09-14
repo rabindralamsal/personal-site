@@ -35,7 +35,7 @@ Asosicated Datasets: http://dx.doi.org/10.21227/781w-ef42 and http://dx.doi.org/
 
 </ul>
 
-<b>preprint</b>
+<b>Preprint</b>
 
 <ul>
 

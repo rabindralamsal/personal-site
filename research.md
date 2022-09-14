@@ -6,10 +6,10 @@ title: Research
 <b>Journal articles</b>
 <ul>
 
-  <div id="block"><b><img src="images/covid-forecast.png" width=300px height=auto align="left"></img>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022) Twitter conversations predict the daily COVID-19 cases. <i>Applied Soft Computing</i></div>
+  <div id="block"><b><img src="https://rlamsal.com.np/images/covid-forecast.png" width=300px height=auto align="left"></img>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022) Twitter conversations predict the daily COVID-19 cases. <i>Applied Soft Computing</i></div>
   
   
-  <div id="block"><b><img src="images/survey-paper.png" width=300px height=auto align="left"></img>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). Socially Enhanced Situation Awareness from Microblogs using Artificial Intelligence: A Survey. <i>ACM Computing Surveys</i>.</div>
+  <div id="block"><b><img src="https://rlamsal.com.np/images/survey-paper.png" width=300px height=auto align="left"></img>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). Socially Enhanced Situation Awareness from Microblogs using Artificial Intelligence: A Survey. <i>ACM Computing Surveys</i>.</div>
  
   
 <b>Lamsal, R.</b> (2021). Design and analysis of a large-scale COVID-19 tweets dataset. <i>Applied Intelligence</i>, 51(5), 2790-2804.<br><br>

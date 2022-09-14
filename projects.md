@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /projects/
-title: Non-Research Projects
+title: Non-Research
 ---
 
 Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/research">here</a>.
 
-<h2>Projects carried out during Master's</h2>
+<h1>Projects carried out during Master's</h1>
 
 
 <ul>	
@@ -51,7 +51,7 @@ part of the course <em>Database Management Systems</em>.
 </li>
 
 </ul>
-<h2>Projects carried out during Bachelor's</h2>
+<h1>Projects carried out during Bachelor's</h1>
 <ul>
 <li>
 <b>

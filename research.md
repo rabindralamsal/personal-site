@@ -7,14 +7,14 @@ title: Publications
 <ul>
 
 <b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://arxiv.org/abs/2206.10471">Twitter conversations predict the daily confirmed COVID-19 cases</a>. <i>Applied Soft Computing</i>, 109603. [<a href="https://doi.org/10.1016/j.asoc.2022.109603">Published version</a>]<br>
-  Associated Dataset: https://github.com/rabindralamsal/MegaGeoCOV
+  Dataset: <a href="https://github.com/rabindralamsal/MegaGeoCOV">https://github.com/rabindralamsal/MegaGeoCOV</a>
   <br><br>  
   
 <b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://rlamsal.com.np/papers/Socially_Enhanced_Situation_Awareness_from_Microblogs_using_Artificial_Intelligence__A_Survey.pdf">Socially Enhanced Situation Awareness from Microblogs using Artificial Intelligence: A Survey</a>. <i>ACM Computing Surveys</i>. [<a href="https://doi.org/10.1145/3524498">Published version</a>]<br><br>
  
   
 <b>Lamsal, R.</b> (2021). <a href="https://doi.org/10.1145/3524498">Design and analysis of a large-scale COVID-19 tweets dataset</a>. <i>Applied Intelligence</i>, 51(5), 2790-2804.<br>
-Asosicated Datasets: http://dx.doi.org/10.21227/781w-ef42 and http://dx.doi.org/10.21227/fpsb-jz61
+  Datasets: <a href="http://dx.doi.org/10.21227/781w-ef42">http://dx.doi.org/10.21227/781w-ef42</a> and <a href="http://dx.doi.org/10.21227/fpsb-jz61">http://dx.doi.org/10.21227/fpsb-jz61</a>
 <br><br>
 
 

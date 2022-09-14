@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Publications
 ---
-<b>Journal articles</b>
+<h1>Journal articles</h1>
 <ul>
 
 <b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://arxiv.org/abs/2206.10471">Twitter conversations predict the daily confirmed COVID-19 cases</a>. <i>Applied Soft Computing</i>, 109603. [<a href="https://doi.org/10.1016/j.asoc.2022.109603">Published version</a>]<br>
@@ -23,7 +23,7 @@ Asosicated Datasets: http://dx.doi.org/10.21227/781w-ef42 and http://dx.doi.org/
 <b>Lamsal, R.</b>, & Kumar, T. V. (2021). <a href="https://doi.org/10.4018/978-1-6684-7145-6.ch031">Twitter-Based Disaster Response Using Recurrent Nets</a>. <i>International Journal of Sociotechnology and Knowledge Development</i>, 13(3), 133-150.
 </ul>
 
-<b>Book Chapters</b>
+<h1>Book Chapters</h1>
 
 <ul>
 
@@ -35,7 +35,7 @@ Asosicated Datasets: http://dx.doi.org/10.21227/781w-ef42 and http://dx.doi.org/
 
 </ul>
 
-<b>Preprint</b>
+<h1>Just preprints</h1>
 
 <ul>
 
@@ -44,10 +44,10 @@ Asosicated Datasets: http://dx.doi.org/10.21227/781w-ef42 and http://dx.doi.org/
 </ul>
 
 
-<b>Other Public Datasets</b>
+<h1>Other Public Datasets</h1>
 
 <ul>
-<b>Lamsal, R.</b> (2021). <a href="https://dx.doi.org/10.21227/k8gw-xz18">Tweets Originating from India During COVID-19 Lockdowns</a> <i>IEEE Dataport</i>.<br><br>
-<b>Lamsal, R.</b> (2020). <a href="http://dx.doi.org/10.21227/jxrd-d245">A Large Scale Nepali Text Corpus.</a> <i>IEEE Dataport</i>.<br><br>
+<b>Lamsal, R.</b> (2021). <a href="https://dx.doi.org/10.21227/k8gw-xz18">Tweets Originating from India During COVID-19 Lockdowns</a>. <i>IEEE Dataport</i>.<br><br>
+<b>Lamsal, R.</b> (2020). <a href="http://dx.doi.org/10.21227/jxrd-d245">A Large Scale Nepali Text Corpus</a>. <i>IEEE Dataport</i>.<br><br>
 <b>Lamsal, R.</b> (2019). <a href="http://dx.doi.org/10.21227/dz6s-my90">300-Dimensional Word Embeddings for Nepali Language</a>. <i>IEEE Dataport</i>.
 </ul>

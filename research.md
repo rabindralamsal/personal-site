@@ -6,7 +6,7 @@ title: Publications
 <h1>Journal articles</h1>
 <ul>
 
-<b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://arxiv.org/abs/2206.10471">Twitter conversations predict the daily confirmed COVID-19 cases</a>. <i>Applied Soft Computing</i>, 109603. [<a href="https://doi.org/10.1016/j.asoc.2022.109603">Published version</a>]<br>
+<b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://arxiv.org/pdf/2206.10471.pdf">Twitter conversations predict the daily confirmed COVID-19 cases</a>. <i>Applied Soft Computing</i>, 109603. [<a href="https://doi.org/10.1016/j.asoc.2022.109603">Published version</a>]<br>
 <span style="font-size:0.7em">Dataset: <a href="https://github.com/rabindralamsal/MegaGeoCOV">https://github.com/rabindralamsal/MegaGeoCOV</a></span>
   <br><br>  
   
@@ -39,7 +39,7 @@ title: Publications
 
 <ul>
 
-<b>Lamsal, R.</b>, & Choudhary, A. (2018). <a href="https://arxiv.org/abs/1809.09813">Predicting Outcome of Indian Premier League (IPL) Matches Using Machine Learning</a>. <i>arXiv preprint arXiv:1809.09813</i>.
+<b>Lamsal, R.</b>, & Choudhary, A. (2018). <a href="https://arxiv.org/pdf/1809.09813.pdf">Predicting Outcome of Indian Premier League (IPL) Matches Using Machine Learning</a>. <i>arXiv preprint arXiv:1809.09813</i>.
 
 </ul>
 

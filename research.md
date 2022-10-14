@@ -27,7 +27,7 @@ title: Publications
 
 <ul>
 
-<b>Lamsal, R.</b>, & Kumar, T. V. (2020). <a href="v">Artificial Intelligence and Early Warning Systems</a>. In <i>AI and Robotics in Disaster Studies</i> (pp. 13-32). Palgrave Macmillan, Singapore.<br><br>
+<b>Lamsal, R.</b>, & Kumar, T. V. (2020). <a href="https://link.springer.com/chapter/10.1007/978-981-15-4291-6_2">Artificial Intelligence and Early Warning Systems</a>. In <i>AI and Robotics in Disaster Studies</i> (pp. 13-32). Palgrave Macmillan, Singapore.<br><br>
 
 <b>Lamsal, R.</b>, & Kumar, T. V. (2020). <a href="https://link.springer.com/chapter/10.1007/978-981-15-4294-7_21">Artificial Intelligence Based Early Warning System for Coastal Disasters</a>. In <i>Development in Coastal Zones and Disaster Management</i> (pp. 305-320). Palgrave Macmillan, Singapore.<br><br>
   

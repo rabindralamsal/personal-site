@@ -24,10 +24,11 @@ title: Publications
 </ul>
 
 <h1>Conference articles</h1>
+<ul>
 <b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://dl.acm.org/doi/abs/10.1145/3557992.3565989">Addressing the location A/B problem on Twitter: the next generation location inference research</a>. In Proceedings of the <i>6th ACM SIGSPATIAL LocalRec</i> (pp. 1-4).<br><br>
 
 <b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://arxiv.org/abs/2211.16506">Where did you tweet from? Inferring the origin locations of tweets based on contextual information</a>. <i>arXiv preprint arXiv:2211.16506</i>.
-
+</ul>
 
 <h1>Book Chapters</h1>
 
@@ -37,7 +38,7 @@ title: Publications
 
 <b>Lamsal, R.</b>, & Kumar, T. V. (2020). <a href="https://link.springer.com/chapter/10.1007/978-981-15-4294-7_21">Artificial Intelligence Based Early Warning System for Coastal Disasters</a>. In <i>Development in Coastal Zones and Disaster Management</i> (pp. 305-320). Palgrave Macmillan, Singapore.<br><br>
   
-<b>Lamsal, R.</b>, & Vijay Kumar, T. V. (2019). Artificial Intelligence based Disaster Response Systems. <i>Fourth World Congress on Disaster Management</i>. January 29-February 1, 2019, IIT Bombay, India. [<a href="https://www.wcdm.co.in/Documents/Past%20WCDMs/4th_WCDM_Ebook_Vol-3.pdf">Book</a>:Page 81--88]
+<b>Lamsal, R.</b>, & Vijay Kumar, T. V. (2019). Artificial Intelligence based Disaster Response Systems. <i>Fourth World Congress on Disaster Management</i>. January 29-February 1, 2019, IIT Bombay, India. [<a href="https://www.wcdm.co.in/Documents/Past%20WCDMs/4th_WCDM_Ebook_Vol-3.pdf">Book</a>: Page 81--88]
 
 </ul>
 

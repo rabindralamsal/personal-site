@@ -23,6 +23,12 @@ title: Publications
 <b>Lamsal, R.</b>, & Kumar, T. V. (2021). <a href="https://doi.org/10.4018/978-1-6684-7145-6.ch031">Twitter-Based Disaster Response Using Recurrent Nets</a>. <i>International Journal of Sociotechnology and Knowledge Development</i>, 13(3), 133-150.
 </ul>
 
+<h1>Conference articles</h1>
+<b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://dl.acm.org/doi/abs/10.1145/3557992.3565989">Addressing the location A/B problem on Twitter: the next generation location inference research</a>. In Proceedings of the <i>6th ACM SIGSPATIAL LocalRec</i> (pp. 1-4).<br><br>
+
+<b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://arxiv.org/abs/2211.16506">Where did you tweet from? Inferring the origin locations of tweets based on contextual information</a>. <i>arXiv preprint arXiv:2211.16506</i>.
+
+
 <h1>Book Chapters</h1>
 
 <ul>

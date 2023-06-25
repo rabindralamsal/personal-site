@@ -6,6 +6,8 @@ title: Publications
 <h1>Journal articles</h1>
 <ul>
 
+<b>Lamsal, R.</b>, Read, M. R., & Karunasekera, S. (2023). <a href="https://arxiv.org/pdf/2301.11284.pdf">BillionCOV: An enriched billion-scale collection of COVID-19 tweets for efficient hydration</a>. <i>Data in Brief</i>, 48, 109229. [<a href="https://doi.org/10.1016/j.dib.2023.109229">Published version</a>]<br><br>
+
 <b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://arxiv.org/pdf/2206.10471.pdf">Twitter conversations predict the daily confirmed COVID-19 cases</a>. <i>Applied Soft Computing</i>, 109603. [<a href="https://doi.org/10.1016/j.asoc.2022.109603">Published version</a>]<br>
 <span style="font-size:0.7em">Dataset: <a href="https://github.com/rabindralamsal/MegaGeoCOV">https://github.com/rabindralamsal/MegaGeoCOV</a></span>
   <br><br>  
@@ -25,9 +27,12 @@ title: Publications
 
 <h1>Conference articles</h1>
 <ul>
-<b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://dl.acm.org/doi/abs/10.1145/3557992.3565989">Addressing the location A/B problem on Twitter: the next generation location inference research</a>. In Proceedings of the <i>6th ACM SIGSPATIAL LocalRec</i> (pp. 1-4).<br><br>
 
-<b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://arxiv.org/abs/2211.16506">Where did you tweet from? Inferring the origin locations of tweets based on contextual information</a>. <i>arXiv preprint arXiv:2211.16506</i>.
+<b>Lamsal, R.</b>, Read, M. R., & Karunasekera, S. (2023). <a href="https://arxiv.org/pdf/2302.11136.pdf">A Twitter narrative of the COVID-19 pandemic in Australia</a>. In <i>ISCRAM</i> 2023. <br><br>
+
+<b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://arxiv.org/abs/2211.16506">Where did you tweet from? Inferring the origin locations of tweets based on contextual information</a>. <i>arXiv preprint arXiv:2211.16506</i>.<br><br>
+
+<b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://dl.acm.org/doi/abs/10.1145/3557992.3565989">Addressing the location A/B problem on Twitter: the next generation location inference research</a>. In Proceedings of the <i>6th ACM SIGSPATIAL LocalRec</i> (pp. 1-4).
 </ul>
 
 <h1>Book Chapters</h1>

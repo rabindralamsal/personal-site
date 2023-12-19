@@ -65,7 +65,7 @@ title: Publications
 </ul>
 
 
-<h1>Other Public Datasets</h1>
+<h1>Public Datasets</h1>
 
 <ul>
 <b>Lamsal, R.</b> (2021). <a href="https://dx.doi.org/10.21227/k8gw-xz18">Tweets Originating from India During COVID-19 Lockdowns</a>. <i>IEEE Dataport</i>.<br><br>

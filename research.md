@@ -3,6 +3,15 @@ layout: page
 permalink: /research/
 title: Publications
 ---
+
+<h1>Under Review</h1>
+
+<ul>
+
+<b>Lamsal, R.</b>, Read, M. R., & Karunasekera, S. (2023). <a href="https://arxiv.org/abs/2309.05494">CrisisTransformers: Pre-trained language models and sentence encoders for crisis-related social media texts</a>. <i>arXiv preprint arXiv:2309.05494</i>.
+
+</ul>
+
 <h1>Journal articles</h1>
 <ul>
 

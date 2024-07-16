@@ -8,12 +8,15 @@ title: Publications
 
 <ul>
 
-<b>Lamsal, R.</b>, Read, M. R., & Karunasekera, S. (2023). <a href="https://arxiv.org/abs/2309.05494">CrisisTransformers: Pre-trained language models and sentence encoders for crisis-related social media texts</a>. <i>arXiv preprint arXiv:2309.05494</i>.
+<b>Lamsal, R.</b>, Read, M. R., Karunasekera, S., & Imran, M. (2024). <a href="https://arxiv.org/pdf/2403.16614">CReMa: Crisis Response through Computational Identification and Matching of Cross-Lingual Requests and Offers Shared on Social Media.</a> <i>arXiv preprint arXiv:2405.11897</i>.
 
 </ul>
 
 <h1>Journal articles</h1>
 <ul>
+
+<b>Lamsal, R.</b>, Read, M. R., & Karunasekera, S. (2024). <a href="https://arxiv.org/pdf/2309.05494">CrisisTransformers: Pre-trained language models and sentence encoders for crisis-related social media texts.</a> <i>Knowledge-Based Systems</i>, 296, 111916. [<a href="https://doi.org/10.1016/j.knosys.2024.111916">Published version</a>]<br><br>
+
 
 <b>Lamsal, R.</b>, Read, M. R., & Karunasekera, S. (2023). <a href="https://arxiv.org/pdf/2301.11284.pdf">BillionCOV: An enriched billion-scale collection of COVID-19 tweets for efficient hydration</a>. <i>Data in Brief</i>, 48, 109229. [<a href="https://doi.org/10.1016/j.dib.2023.109229">Published version</a>]<br><br>
 
@@ -36,6 +39,9 @@ title: Publications
 
 <h1>Conference articles</h1>
 <ul>
+
+<b>Lamsal, R.</b>, Read, M. R., & Karunasekera, S. (2024). <a href="https://arxiv.org/pdf/2403.16614">Semantically Enriched Cross-Lingual Sentence Embeddings for Crisis-related Social Media Texts
+</a>. In <i>ISCRAM</i> 2024. <br><br>
 
 <b>Lamsal, R.</b>, Read, M. R., & Karunasekera, S. (2023). <a href="https://arxiv.org/pdf/2302.11136.pdf">A Twitter narrative of the COVID-19 pandemic in Australia</a>. In <i>ISCRAM</i> 2023. <br><br>
 

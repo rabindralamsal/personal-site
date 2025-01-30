@@ -10,9 +10,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "https://rlamsal.com.np" # the base hostname & protocol for your site
 
-twitter_username: rabindra_lamsal
+#twitter_username: rabindra_lamsal
 github_username: 
-linkedin_username: rabindralamsal
+#linkedin_username: rabindralamsal
 facebook_username: 
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 

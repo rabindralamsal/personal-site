@@ -7,7 +7,7 @@ title: Publications
 <h1>Journal articles</h1>
 <ul>
 
-<b>Lamsal, R.</b>, Read, M. R., Karunasekera, S., & Imran, M. (2024). <a href="https://arxiv.org/pdf/2403.16614">CReMa: Crisis Response through Computational Identification and Matching of Cross-Lingual Requests and Offers Shared on Social Media.</a> <i>IEEE Transactions on Computational Social Systems</i>. [Early Access] <br><br>
+<b>Lamsal, R.</b>, Read, M. R., Karunasekera, S., & Imran, M. (2025). <a href="https://arxiv.org/abs/2405.11897">CReMa: Crisis Response through Computational Identification and Matching of Cross-Lingual Requests and Offers Shared on Social Media.</a> <i>IEEE Transactions on Computational Social Systems</i>, 12(1), 306-319. [<a href="https://doi.org/10.1109/TCSS.2024.3453226">Published version</a>] <br><br>
 
 <b>Lamsal, R.</b>, Read, M. R., & Karunasekera, S. (2024). <a href="https://arxiv.org/pdf/2309.05494">CrisisTransformers: Pre-trained language models and sentence encoders for crisis-related social media texts.</a> <i>Knowledge-Based Systems</i>, 296, 111916. [<a href="https://doi.org/10.1016/j.knosys.2024.111916">Published version</a>]<br><br>
 

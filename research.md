@@ -72,7 +72,6 @@ Research articles in which I served as the **lead author**. For a comprehensive 
 
 <b>Lamsal, R.</b> (2021). <a href="https://dx.doi.org/10.21227/781w-ef42">Coronavirus (COVID-19) Tweets Dataset</a>. <i>IEEE Dataport</i>.<br><br>
 <b>Lamsal, R.</b> (2021). <a href="https://dx.doi.org/10.21227/fpsb-jz61">Coronavirus (COVID-19) Geo-tagged Tweets Dataset</a>. <i>IEEE Dataport</i>.<br><br>
-<b>Lamsal, R.</b> (2021). <a href="https://dx.doi.org/10.21227/k8gw-xz18">Tweets Originating from India During COVID-19 Lockdowns</a>. <i>IEEE Dataport</i>.<br><br>
 <b>Lamsal, R.</b> (2020). <a href="http://dx.doi.org/10.21227/jxrd-d245">A Large Scale Nepali Text Corpus</a>. <i>IEEE Dataport</i>.<br><br>
 <b>Lamsal, R.</b> (2019). <a href="http://dx.doi.org/10.21227/dz6s-my90">300-Dimensional Word Embeddings for Nepali Language</a>. <i>IEEE Dataport</i>.
 </ul>

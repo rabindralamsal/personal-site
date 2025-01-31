@@ -3,6 +3,7 @@ layout: page
 permalink: /research/
 title: Publications
 ---
+Research articles in which I served as the **lead author**. For a comprehensive list, please refer to my <a href="https://scholar.google.com/citations?hl=en&user=tN_Eb9MAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar profile</a>.
 
 <h1>Journal articles</h1>
 <ul>

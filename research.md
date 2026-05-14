@@ -8,6 +8,8 @@ Research articles in which I served as the **lead author**. For a comprehensive 
 <h1>Journal articles</h1>
 <ul>
 
+<b>Lamsal, R.</b>, Zlatanova, S., Xu, H., Sun, Y., & Shen, J. X. (2026). <a href="https://arxiv.org/abs/2605.13236">A Hybrid Framework for Natural Language Querying of IFC Models with Relational and Graph Representations</a>. <i>arXiv preprint arXiv:2605.13236</i>. [Under Review] <br><br>
+
 <b>Lamsal, R.</b>, Read, M. R., Karunasekera, S., & Imran, M. (2025). <a href="https://arxiv.org/abs/2405.11897">CReMa: Crisis Response through Computational Identification and Matching of Cross-Lingual Requests and Offers Shared on Social Media.</a> <i>IEEE Transactions on Computational Social Systems</i>, 12(1), 306-319. [<a href="https://doi.org/10.1109/TCSS.2024.3453226">Published version</a>] <br><br>
 
 <b>Lamsal, R.</b>, Read, M. R., & Karunasekera, S. (2024). <a href="https://arxiv.org/pdf/2309.05494">CrisisTransformers: Pre-trained language models and sentence encoders for crisis-related social media texts.</a> <i>Knowledge-Based Systems</i>, 296, 111916. [<a href="https://doi.org/10.1016/j.knosys.2024.111916">Published version</a>]<br><br>
@@ -35,12 +37,14 @@ Research articles in which I served as the **lead author**. For a comprehensive 
 <h1>Conference articles</h1>
 <ul>
 
+<b>Lamsal, R.</b>, Zlatanova, S. (2026). <a href="#">Query2Property: Semantic retrieval of IFC properties for natural language BIM queries</a>. In <i>Annals of ISPRS Congress 2026</i>. [link to the paper will be updated once the proceedings are published]<br><br>
+
 <b>Lamsal, R.</b>, Read, M. R., & Karunasekera, S. (2024). <a href="https://arxiv.org/pdf/2403.16614">Semantically Enriched Cross-Lingual Sentence Embeddings for Crisis-related Social Media Texts
 </a>. In <i>ISCRAM</i> 2024. <br><br>
 
 <b>Lamsal, R.</b>, Read, M. R., & Karunasekera, S. (2023). <a href="https://arxiv.org/pdf/2302.11136.pdf">A Twitter narrative of the COVID-19 pandemic in Australia</a>. In <i>ISCRAM</i> 2023. <br><br>
 
-<b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://arxiv.org/abs/2211.16506">Where did you tweet from? Inferring the origin locations of tweets based on contextual information</a>. In <i>In 2022 IEEE International Conference on Big Data (Big Data)</i> (pp. 3935-3944).<br><br>
+<b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://arxiv.org/abs/2211.16506">Where did you tweet from? Inferring the origin locations of tweets based on contextual information</a>. In <i>2022 IEEE International Conference on Big Data (Big Data)</i> (pp. 3935-3944).<br><br>
 
 <b>Lamsal, R.</b>, Harwood, A., & Read, M. R. (2022). <a href="https://dl.acm.org/doi/abs/10.1145/3557992.3565989">Addressing the location A/B problem on Twitter: the next generation location inference research</a>. In Proceedings of the <i>6th ACM SIGSPATIAL LocalRec</i> (pp. 1-4).
 </ul>
@@ -57,7 +61,7 @@ Research articles in which I served as the **lead author**. For a comprehensive 
 
 </ul>
 
-<h1>Just preprints</h1>
+<h1>Archived</h1>
 
 <ul>
 
